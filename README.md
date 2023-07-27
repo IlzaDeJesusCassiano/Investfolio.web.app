@@ -1,2 +1,2 @@
 # Investfolio.web.app
-http://www.investfolio.web.app
+https://www.investfolio.web.app
